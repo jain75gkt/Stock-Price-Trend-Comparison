@@ -1,0 +1,1 @@
+This UiPath project automates the process of fetching, updating, visualizing, and reporting current share prices for a specified company. It runs daily between 10:00 AM and 4:00 PM IST, collecting data every 30 minutes, ensuring up-to-date information.
